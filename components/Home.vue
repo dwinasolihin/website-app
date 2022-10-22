@@ -54,14 +54,6 @@ export default {
         console.log(error); // eslint-disable-line
       }
     },
-      // return axios.get(config.url + config.bucket_slug + '/object-type/homes',{
-      //       params: {
-      //           read_key: config.read_key
-      //       }
-      //   })
-      // .then(res => {
-      //   return {title : res.data.objects[0].title, body: res.data.objects[0].content, image: res.data.objects[0].metadata.image, about: res.data.objects[0].metadata.about_us, contact: res.data.objects[0].metadata.contact_us}
-      // });
   },
 }; 
 </script>
