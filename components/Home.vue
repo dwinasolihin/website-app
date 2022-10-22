@@ -4,8 +4,6 @@
     <nav-bar></nav-bar>
     <p class="headline">{{homesObj}}</p>
     <p class="headline">{{blogsObj}}</p>
-
-    
   </div>
 </template>
 
