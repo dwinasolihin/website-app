@@ -2,8 +2,8 @@
 <template>
   <div id="home">
     <nav-bar></nav-bar>
-    <p class="headline"><h2>{{homesObj.title}}</h2></p>
-    <p class="headline"><h2>{{blogsObj.title}}</h2></p>
+    <p class="headline">{{homesObj}}</p>
+    <p class="headline">{{blogsObj}}</p>
 
     
   </div>
