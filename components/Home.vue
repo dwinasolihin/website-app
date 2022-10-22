@@ -1,6 +1,6 @@
 <!-- Please remove this file from your project -->
 <template>
-<div id="app">
+<div id="home">
   <nav-bar></nav-bar>
 
   <button @click="count++">
@@ -18,7 +18,8 @@ export default {
   data() {
     return {
       homesObj: null,
-      blogsObj: null
+      blogsObj: null,
+      count: null,
     };
   },
   created() {
