@@ -1,6 +1,6 @@
 <!-- Please remove this file from your project -->
 <template>
-  <div id="home">
+  <div id="IndexPage">
     <nav-bar></nav-bar>
     <p class="headline">{{homesObj}}</p>
     <p class="headline">{{blogsObj}}</p>
